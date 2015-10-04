@@ -1,8 +1,8 @@
 {
-  "name": "defiant/randomorg",
+  "name": "dimka3210/randomorg",
   "description": "PHP class for Random.org",
   "keywords": ["random", "random.org"],
-  "homepage": "http://github.com/defiant/randomorg",
+  "homepage": "http://github.com/dimka3210/randomorg",
   "authors": [
     {
       "name": "Sinan Taga",
